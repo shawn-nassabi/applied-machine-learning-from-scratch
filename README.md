@@ -1,6 +1,6 @@
 # Applied Machine Learning projects built from scratch
 
-All the projects involve building machine learning (ML) models from scratch. Black-box models were not used. Models are built using Python, PyTorch, and NumPy.
+All the projects involve building machine learning (ML) models from scratch. Black-box models were not used. Models are built using Python with PyTorch, Pandas, and NumPy.
 
 ## ML models built include:
 - Generative Adversarial Network (GAN) to generate images of anime themed characters
